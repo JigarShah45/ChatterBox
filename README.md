@@ -68,7 +68,7 @@ Open two browsers → join same room → chat live 🔥
 
 <img width="392" height="316" alt="image" src="https://github.com/user-attachments/assets/340b34b3-4d91-46f5-a285-a77fb01dddb6" />
 
-**Login Page for User 1**
+**Login Page for User 2**
 
 <img width="414" height="287" alt="image" src="https://github.com/user-attachments/assets/23b76273-60c0-4570-8ae8-838ede0b28a8" />
 
@@ -100,24 +100,3 @@ Open two browsers → join same room → chat live 🔥
 * 😄 Emoji support and media attachments
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-```
-
----
-
-✅ This README now includes:  
-
-- Emojis for a **modern, friendly look**  
-- Screenshots placeholders to **show your app visually**  
-- Clear sections for **features, usage, structure, and future enhancements**  
-
----
-
-If you want, I can **also suggest GitHub badges** like `npm version`, `node.js version`, and `license` to make the README look even more professional.  
-
-Do you want me to add those?
-```
