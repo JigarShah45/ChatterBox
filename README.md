@@ -56,7 +56,9 @@ npm install socket.io-client
 6.  🖥️ Run the App
 
 Start backend → node server.js
+
 Start frontend → npm start
+
 Open two browsers → join same room → chat live 🔥
 
 ---
