@@ -25,14 +25,7 @@ A **real-time chat application** built using **React** for the frontend and **No
 
 ## ⚡ Installation & Setup
 
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/<your-username>/real-time-chat-app.git
-cd real-time-chat-app
-````
-
-2. **Setup Backend:**
+1. **Setup Backend:**
 
 ```bash
 mkdir chat-app-backend
@@ -42,7 +35,7 @@ npm install express socket.io cors
 
 ```
 
-3. **Setup Frontend:**
+2. **Setup Frontend:**
 
 ```bash
 npx create-react-app chat-app-frontend
