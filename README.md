@@ -44,9 +44,9 @@ npm install socket.io-client
 
 ```
 
-4. Open your browser at [http://localhost:3000](http://localhost:3000)
+3. Open your browser at [http://localhost:3000](http://localhost:3000)
    
-6.  🖥️ Run the App
+4.  🖥️ Run the App
 
 Start backend → node server.js
 
